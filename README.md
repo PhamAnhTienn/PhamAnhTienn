@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://stats-rouge-phi.vercel.app/api?username=PhamAnhTienn
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamAnhTien)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **PhamAnhTienn/PhamAnhTienn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
