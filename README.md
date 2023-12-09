@@ -1,11 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pham Anh Tien</h1>
-<h3 align="center">A student from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="DATA" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamanhtienn&label=Profile%20views&color=0e75b6&style=flat" alt="phamanhtienn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **computer science**
 
