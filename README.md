@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **computer science**
 
-- 📫 How to reach me **anhtien13082005@gmail.com**
+- 📫 How to reach me **tienpa.vn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
