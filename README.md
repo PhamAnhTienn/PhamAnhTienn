@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pham+Anh+Tien!;" />
 </h1>
 
-<h3 align="center">An aspiring data scientist/ai engineer</h3>
+<h3 align="center">An aspiring student</h3>
  
 # 💫 About Me:
 🔭 I’m currently working on NLP<br>🌱 I’m currently learning ML/DL<br>💬 Ask me about anything?<br>⚡ Fun fact
